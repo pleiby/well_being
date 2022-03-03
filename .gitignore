@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# rendered files
+*.html
+*.Rproj
+
+# Mac system files
+.DS_Store
+
+# class handouts and downloaded papers
+*.pdf
